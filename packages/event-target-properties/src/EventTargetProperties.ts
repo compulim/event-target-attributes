@@ -1,4 +1,4 @@
-import type { TypedEventListener } from './TypedEventListener';
+import { type TypedEventListener } from './TypedEventListener.ts';
 
 export default class EventTargetProperties<
   Type extends string = string,

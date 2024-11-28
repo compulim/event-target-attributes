@@ -1,4 +1,4 @@
-import EventTargetProperties from './EventTargetProperties.js';
-import { type TypedEventListener } from './TypedEventListener.js';
+import EventTargetProperties from './EventTargetProperties.ts';
+import { type TypedEventListener } from './TypedEventListener.ts';
 
 export { EventTargetProperties, type TypedEventListener };

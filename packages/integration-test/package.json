@@ -27,7 +27,7 @@
     "@types/node": "^20.17.6",
     "@types/selenium-webdriver": "^4.1.27",
     "core-js-pure": "^3.38.1",
-    "esbuild": "^0.24.0",
+    "esbuild": "^0.25.0",
     "expect": "^29.7.0",
     "mocha": "^10.8.2",
     "on-error-resume-next": "^2.0.1",
